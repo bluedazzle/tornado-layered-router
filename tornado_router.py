@@ -1,4 +1,7 @@
 # coding: utf-8
+# author: rapospectre
+# create_at: 2016-05-19
+
 from __future__ import unicode_literals
 from importlib import import_module
 
